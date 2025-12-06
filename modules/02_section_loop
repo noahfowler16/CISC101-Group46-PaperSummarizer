@@ -1,0 +1,8 @@
+Module 2: Section Loop
+For each section:
+
+Generate a concise summary respecting word limits.
+
+Validate constraints: no added content, factual, grounded in text.
+
+Store section summary, word count, and notes.
