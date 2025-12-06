@@ -1,3 +1,6 @@
+Change log (12-05-2025)
+If statement added to handle complexity of summary
+
 Module 2: Section Loop
 For each section:
 
@@ -6,3 +9,9 @@ Generate a concise summary respecting word limits.
 Validate constraints: no added content, factual, grounded in text.
 
 Store section summary, word count, and notes.
+
+Summary level is either "short" or "in depth"
+
+If summary_level = "short" --> generate only a short summary (1-2 sentences)
+
+If summary_level = "in depth" --> genrate a concise in depth paragraph as well as a bullet list of key points

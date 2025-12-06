@@ -1,3 +1,6 @@
+Change log (12-05-2025)
+Added specification for making sure evidence is present
+
 Module 3: Guardrails
 
 Flag missing or empty sections.
@@ -7,3 +10,9 @@ Issue warnings for sections <50 words.
 Mitigate hallucination risks (e.g., cross-check facts against the source).
 
 Handle long papers via chunking strategies for context-window limits.
+
+Evidence check mode:
+
+When activated only include claims, equations, and results that appear in the provided text
+
+If this isn't possible, explicitly state that there isn't enough information on the topic
