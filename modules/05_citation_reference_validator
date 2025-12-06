@@ -1,0 +1,9 @@
+Module 5: Citation & Reference Validator
+
+Check that all citations in the summaries match the original paper.
+
+Ensure no citations are invented.
+
+Standardize citation formatting (e.g., APA, MLA) as specified by the user.
+
+Flag missing references for sections that mention studies or data.
