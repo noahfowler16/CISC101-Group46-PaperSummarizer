@@ -1,0 +1,15 @@
+Module 4: Rendering & Refinement
+
+Combine section summaries into a cohesive overall summary.
+
+Apply consistent formatting across outputs.
+
+Generate expert and lay variants of the summary.
+
+Produce final checks and warnings table.
+
+Conditional Logic:
+
+If any summary exceeds the user-specified length → automatically re-summarize more concisely.
+
+If missing/empty sections detected → warn the user and skip summarization until addressed.
