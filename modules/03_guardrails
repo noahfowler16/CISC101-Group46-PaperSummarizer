@@ -1,0 +1,9 @@
+Module 3: Guardrails
+
+Flag missing or empty sections.
+
+Issue warnings for sections <50 words.
+
+Mitigate hallucination risks (e.g., cross-check facts against the source).
+
+Handle long papers via chunking strategies for context-window limits.
